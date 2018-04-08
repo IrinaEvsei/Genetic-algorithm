@@ -1,0 +1,6 @@
+Diophantine equation a + 2*b + 3*c + 4*d = 30
+Number of iteration 43
+Solution is found: Genes: (1, 5, 5, 1)
+Fitness:-1.0
+Likelihood:0.0
+
